@@ -1,0 +1,1848 @@
+[
+  {
+    "CHEST EXERCISES": [
+      {
+        "Inclined Bench Press": {
+          "short_description": "Targets upper chest, shoulders, and triceps using a 30-45 degree angled bench.",
+          "duration": "30-40 min",
+          "rest_time": "60-90 sec",
+          "number_of_exercises": "8-12",
+          "overview": "Develops upper chest strength and size by shifting load upward using incline positioning.",
+          "how_to_perform": {
+            "start_position": [
+              "Set bench to 30-45 degree incline",
+              "Lie back with feet flat on the floor",
+              "Grip barbell slightly wider than shoulder-width",
+              "Bar should be above upper chest"
+            ],
+            "execution": [
+              "Lower bar slowly to upper chest with elbows at 45°",
+              "Press upward while engaging core and exhaling"
+            ]
+          },
+          "sets_reps": {
+            "beginners": "3 sets of 8-10 reps",
+            "intermediate": "4 sets of 10-12 reps",
+            "advanced": "5 sets of 12-15 reps"
+          }
+        }
+      },
+      {
+        "Decline Bench Press": {
+          "short_description": "Focuses on lower chest with less shoulder strain using declined bench position.",
+          "duration": "30-40 min",
+          "rest_time": "60-90 sec",
+          "number_of_exercises": "8-12",
+          "overview": "Builds lower pectorals and allows greater range of motion by using a downward bench angle.",
+          "how_to_perform": {
+            "start_position": [
+              "Adjust bench to 15-30 degree decline",
+              "Secure feet under padding",
+              "Grip barbell slightly wider than shoulder-width",
+              "Bar aligned with lower chest"
+            ],
+            "execution": [
+              "Lower bar to lower chest at 45° elbow angle",
+              "Press up while exhaling, keeping core tight"
+            ]
+          },
+          "sets_reps": {
+            "beginners": "3 sets of 8-10 reps",
+            "intermediate": "4 sets of 10-12 reps",
+            "advanced": "5 sets of 12-15 reps"
+          }
+        }
+      },
+      {
+        "Push-Ups (Regular, Wide, Diamond)": {
+          "short_description": "Bodyweight exercise targeting chest, triceps, and shoulders with multiple hand positions.",
+          "duration": "20-30 min",
+          "rest_time": "30-45 sec",
+          "number_of_exercises": "10-15",
+          "overview": "Regular push-ups target full chest, wide hits outer chest, diamond focuses on inner chest and triceps.",
+          "how_to_perform": {
+            "start_position": [
+              "Begin in plank, hands and feet shoulder-width apart",
+              "Body in a straight line"
+            ],
+            "execution": [
+              "Lower chest by bending elbows",
+              "45° elbows for regular, wider for wide, close to body for diamond",
+              "Push back up while exhaling"
+            ]
+          },
+          "sets_reps": {
+            "beginners": "3 sets of 8-12 reps (regular)",
+            "intermediate": "4 sets of 12-15 reps (mix all)",
+            "advanced": "5 sets of 15-20 reps (explosive variations)"
+          }
+        }
+      },
+      {
+        "Chest Fly (Cable/Dumbbell)": {
+          "short_description": "Isolation movement that stretches and contracts pectorals using cables or dumbbells.",
+          "duration": "30-40 min",
+          "rest_time": "45-60 sec",
+          "number_of_exercises": "8-12",
+          "overview": "Emphasizes chest width and definition; cables give constant tension, dumbbells allow free motion.",
+          "how_to_perform": {
+           
+              "start_position": [
+                "For Cable : Set cables to shoulder height",
+                "For Cable : Grab handles, palms forward, slight forward lean",
+                "For Dumbbell : Lie flat on bench with dumbbells above chest",
+                "For Dumbbell : Palms face each other, elbows slightly bent"
+              ],
+              "execution": [
+                "For Cable : Bring handles together in arc",
+                "For Cable : Squeeze chest, return slowly maintaining tension",
+                "For Dumbbell : Lower dumbbells outward in arc",
+                "For Dumbbell : Bring them back together while focusing on squeeze"
+              ]
+           
+           
+          },
+          "sets_reps": {
+            "beginners": "3 sets of 10-12 reps",
+            "intermediate": "4 sets of 12-15 reps",
+            "advanced": "5 sets of 15-20 reps"
+          }
+        }
+      },
+      {
+        "Dips (Chest-focused)": {
+          "short_description": "Compound bodyweight movement targeting lower chest by leaning forward.",
+          "duration": "30-40 min",
+          "rest_time": "60-90 sec",
+          "number_of_exercises": "8-12",
+          "overview": "Emphasizes chest by leaning torso forward; also hits triceps and front shoulders.",
+          "how_to_perform": {
+            "start_position": [
+              "Use parallel bars, grip slightly wider than shoulder-width",
+              "Jump up, keep arms extended, lean torso forward"
+            ],
+            "execution": [
+              "Lower until elbows at 90°",
+              "Push back up without locking elbows"
+            ]
+          },
+          "sets_reps": {
+            "beginners": "3 sets of 6-8 reps (assisted if needed)",
+            "intermediate": "4 sets of 8-12 reps",
+            "advanced": "5 sets of 12-15 reps (with dip belt)"
+          }
+        }
+      },
+      {
+        "Machine Chest Press": {
+          "short_description": "Guided compound press movement mimicking bench press for chest, triceps, shoulders.",
+          "duration": "30-40 min",
+          "rest_time": "60-90 sec",
+          "number_of_exercises": "8-12",
+          "overview": "Safe alternative to free weights; focuses on form, muscle tension, and hypertrophy.",
+          "how_to_perform": {
+            "start_position": [
+              "Adjust seat to align handles with mid-chest",
+              "Sit with feet flat and back against pad",
+              "Grip handles slightly wider than shoulders"
+            ],
+            "execution": [
+              "Press handles forward fully without locking elbows",
+              "Control movement while returning back"
+            ]
+          },
+          "sets_reps": {
+            "beginners": "3 sets of 10-12 reps",
+            "intermediate": "4 sets of 12-15 reps",
+            "advanced": "5 sets of 15-20 reps"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "SHOULDER EXERCISES": [
+      {
+        "Overhead Shoulder Press (Barbell / Dumbbell)": {
+          "short_description": "Targets deltoid muscles (especially anterior), triceps, and upper chest; improves shoulder strength.",
+          "duration": "30-40 min",
+          "rest_time": "60-90 sec",
+          "number_of_exercises": "8-12",
+          "overview": "Enhances pressing strength and functional shoulder stability for upper body movements.",
+          "how_to_perform": {
+            "start_position": [
+              "Stand with feet shoulder-width apart",
+              "Hold barbell/dumbbells at shoulder height",
+              "Keep core tight and spine neutral"
+            ],
+            "execution": [
+              "Press weight overhead until arms fully extended",
+              "Avoid aggressive elbow lockout",
+              "Lower weight slowly while maintaining control"
+            ]
+          },
+          "sets_reps": {
+            "beginners": "3 sets of 8-10 reps",
+            "intermediate": "4 sets of 10-12 reps",
+            "advanced": "5 sets of 12-15 reps"
+          }
+        }
+      },
+      {
+        "Front Raises": {
+          "short_description": "Isolates anterior deltoids to build front shoulder strength and enhance aesthetics.",
+          "duration": "30-40 min",
+          "rest_time": "30-60 sec",
+          "number_of_exercises": "8-12",
+          "overview": "Strengthens front delts and improves pressing motion control.",
+          "how_to_perform": {
+            "start_position": [
+              "Hold dumbbells with palms facing down",
+              "Stand feet shoulder-width apart, core engaged"
+            ],
+            "execution": [
+              "Raise dumbbells to shoulder height",
+              "Keep arms straight but elbows soft",
+              "Lower back slowly while breathing in"
+            ]
+          },
+          "sets_reps": {
+            "beginners": "3 sets of 10-12 reps",
+            "intermediate": "4 sets of 12-15 reps",
+            "advanced": "5 sets of 15-20 reps"
+          }
+        }
+      },
+      {
+        "Reverse Pec Deck (Rear Delt Fly)": {
+          "short_description": "Targets rear deltoids to improve shoulder posture, stability, and upper back strength.",
+          "duration": "30-40 min",
+          "rest_time": "30-60 sec",
+          "number_of_exercises": "8-12",
+          "overview": "Isolates rear delts, enhances posture, and stabilizes shoulders by minimizing supporting muscle involvement.",
+          "how_to_perform": {
+            "start_position": [
+              "Sit facing pec deck machine pad",
+              "Grip handles with slight elbow bend",
+              "Keep chest against pad and spine neutral"
+            ],
+            "execution": [
+              "Pull handles outward and back to full arm extension",
+              "Squeeze shoulder blades at top",
+              "Return slowly while maintaining control"
+            ]
+          },
+          "sets_reps": {
+            "beginners": "3 sets of 10-12 reps",
+            "intermediate": "4 sets of 12-15 reps",
+            "advanced": "5 sets of 15-20 reps"
+          }
+        }
+      },
+      {
+        "Face Pulls": {
+          "short_description": "Strengthens posterior deltoids, traps, and rotator cuffs for posture and injury prevention.",
+          "duration": "30-40 min",
+          "rest_time": "30-60 sec",
+          "number_of_exercises": "8-12",
+          "overview": "Essential for rotator cuff health, scapular control, and rear deltoid development.",
+          "how_to_perform": {
+            "start_position": [
+              "Attach rope to cable at face height",
+              "Stand feet shoulder-width apart and grip rope with both hands"
+            ],
+            "execution": [
+              "Pull rope toward face with high elbows",
+              "Squeeze shoulder blades together",
+              "Return slowly while keeping form"
+            ]
+          },
+          "sets_reps": {
+            "beginners": "3 sets of 10-12 reps",
+            "intermediate": "4 sets of 12-15 reps",
+            "advanced": "5 sets of 15-20 reps"
+          }
+        }
+      },
+      {
+        "Arnold Press": {
+          "short_description": "Variation of shoulder press that targets all three deltoid heads via rotation.",
+          "duration": "30-40 min",
+          "rest_time": "60-90 sec",
+          "number_of_exercises": "8-12",
+          "overview": "Combines shoulder press with a twist to enhance muscle recruitment and shoulder mobility.",
+          "how_to_perform": {
+            "start_position": [
+              "Sit or stand with dumbbells at shoulder height, palms facing you",
+              "Engage core, keep upright posture"
+            ],
+            "execution": [
+              "Rotate palms outward while pressing overhead",
+              "Fully extend arms without locking elbows",
+              "Reverse motion on way down"
+            ]
+          },
+          "sets_reps": {
+            "beginners": "3 sets of 8-10 reps",
+            "intermediate": "4 sets of 10-12 reps",
+            "advanced": "5 sets of 12-15 reps"
+          }
+        }
+      },
+      {
+        "Upright Rows": {
+          "short_description": "Targets side delts and traps to build shoulder width and strength.",
+          "duration": "30-40 min",
+          "rest_time": "30-60 sec",
+          "number_of_exercises": "8-12",
+          "overview": "Builds mass in shoulders and upper traps; also lightly engages biceps.",
+          "how_to_perform": {
+            "start_position": [
+              "Hold barbell or dumbbells in front with close grip",
+              "Stand straight with core engaged"
+            ],
+            "execution": [
+              "Pull weight to chest height, elbows above wrists",
+              "Pause, then slowly return to start"
+            ]
+          },
+          "sets_reps": {
+            "beginners": "3 sets of 8-10 reps",
+            "intermediate": "4 sets of 10-12 reps",
+            "advanced": "5 sets of 12-15 reps"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "BICEP EXERCISES": [
+      {
+        "Barbell Bicep Curls": {
+          "short_description": "Fundamental compound bicep exercise that builds strength and size while engaging forearms.",
+          "duration": "30-40 min",
+          "rest_time": "30-60 sec",
+          "number_of_exercises": "8-12",
+          "overview": "Allows heavier loading with barbell to build mass and strength through progressive overload.",
+          "how_to_perform": {
+            "start_position": [
+              "Stand with feet shoulder-width apart",
+              "Hold barbell with underhand grip",
+              "Elbows close to torso, back straight"
+            ],
+            "execution": [
+              "Curl barbell up by contracting biceps",
+              "Squeeze at top",
+              "Lower slowly to start with control"
+            ]
+          },
+          "sets_reps": {
+            "beginners": "3 sets of 10-12 reps",
+            "intermediate": "4 sets of 12-15 reps",
+            "advanced": "5 sets of 15-20 reps"
+          }
+        }
+      },
+      {
+        "Dumbbell Bicep Curls": {
+          "short_description": "Isolation exercise promoting balanced bicep development and endurance.",
+          "duration": "30-40 min",
+          "rest_time": "30-60 sec",
+          "number_of_exercises": "8-12",
+          "overview": "Engages each arm independently to address imbalances and enhance muscle coordination.",
+          "how_to_perform": {
+            "start_position": [
+              "Stand upright with dumbbells in each hand, palms facing forward",
+              "Elbows close to body, spine neutral"
+            ],
+            "execution": [
+              "Curl both dumbbells up",
+              "Squeeze biceps at top",
+              "Lower slowly and under control"
+            ]
+          },
+          "sets_reps": {
+            "beginners": "3 sets of 10-12 reps",
+            "intermediate": "4 sets of 12-15 reps",
+            "advanced": "5 sets of 15-20 reps"
+          }
+        }
+      },
+      {
+        "Hammer Curls": {
+          "short_description": "Targets brachialis and biceps to build arm thickness and grip strength.",
+          "duration": "30-40 min",
+          "rest_time": "30-60 sec",
+          "number_of_exercises": "8-12",
+          "overview": "Neutral grip reduces wrist stress and emphasizes brachialis for thicker arms.",
+          "how_to_perform": {
+            "start_position": [
+              "Hold dumbbells with neutral grip",
+              "Elbows close to torso, stand upright"
+            ],
+            "execution": [
+              "Curl dumbbells up, squeeze at top",
+              "Lower with control"
+            ]
+          },
+          "sets_reps": {
+            "beginners": "3 sets of 10-12 reps",
+            "intermediate": "4 sets of 12-15 reps",
+            "advanced": "5 sets of 15-20 reps"
+          }
+        }
+      },
+      {
+        "Preacher Curls": {
+          "short_description": "Strict bicep isolation by limiting momentum and enforcing controlled movement.",
+          "duration": "30-40 min",
+          "rest_time": "30-60 sec",
+          "number_of_exercises": "8-12",
+          "overview": "Reduces assistance from other muscles to maximize biceps tension and growth.",
+          "how_to_perform": {
+            "start_position": [
+              "Sit at preacher bench",
+              "Rest arms on pad, grip bar/dumbbell underhand"
+            ],
+            "execution": [
+              "Curl weight up while upper arms remain on pad",
+              "Squeeze at top, lower slowly"
+            ]
+          },
+          "sets_reps": {
+            "beginners": "3 sets of 10-12 reps",
+            "intermediate": "4 sets of 12-15 reps",
+            "advanced": "5 sets of 15-20 reps"
+          }
+        }
+      },
+      {
+        "Concentration Curls": {
+          "short_description": "Highly focused bicep isolation for peak contraction and enhanced definition.",
+          "duration": "30-40 min",
+          "rest_time": "30-60 sec",
+          "number_of_exercises": "8-12",
+          "overview": "Strict form eliminates momentum to improve bicep peak and control.",
+          "how_to_perform": {
+            "start_position": [
+              "Sit on bench with dumbbell in one hand",
+              "Elbow rests on inside of thigh, back straight"
+            ],
+            "execution": [
+              "Curl dumbbell to shoulder, squeeze at top",
+              "Lower slowly with control",
+              "Switch arms and repeat"
+            ]
+          },
+          "sets_reps": {
+            "beginners": "3 sets of 10-12 reps",
+            "intermediate": "4 sets of 12-15 reps",
+            "advanced": "5 sets of 15-20 reps"
+          }
+        }
+      },
+      {
+        "Cable Curls": {
+          "short_description": "Provides constant resistance and muscle tension throughout bicep motion.",
+          "duration": "30-40 min",
+          "rest_time": "30-60 sec",
+          "number_of_exercises": "8-12",
+          "overview": "Cable setup maximizes time under tension and improves endurance.",
+          "how_to_perform": {
+            "start_position": [
+              "Attach bar/rope to low pulley",
+              "Grip handle with underhand grip, elbows close"
+            ],
+            "execution": [
+              "Curl handle up, squeeze biceps at top",
+              "Lower slowly under control"
+            ]
+          },
+          "sets_reps": {
+            "beginners": "3 sets of 10-12 reps",
+            "intermediate": "4 sets of 12-15 reps",
+            "advanced": "5 sets of 15-20 reps"
+          }
+        }
+      },
+      {
+        "Zottman Curls": {
+          "short_description": "Blends standard and reverse curls to hit both biceps and forearms for balanced arms.",
+          "duration": "30-40 min",
+          "rest_time": "30-60 sec",
+          "number_of_exercises": "8-12",
+          "overview": "Underhand lift followed by overhand eccentric phase for forearm and bicep synergy.",
+          "how_to_perform": {
+            "start_position": [
+              "Hold dumbbells underhand at sides, elbows close"
+            ],
+            "execution": [
+              "Curl up with underhand grip",
+              "Rotate palms to overhand at top",
+              "Lower slowly with reverse grip"
+            ]
+          },
+          "sets_reps": {
+            "beginners": "3 sets of 10-12 reps",
+            "intermediate": "4 sets of 12-15 reps",
+            "advanced": "5 sets of 15-20 reps"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "TRICEP EXERCISES": [
+      {
+        "Triceps Dips": {
+          "short_description": "Bodyweight exercise that isolates and strengthens the triceps with minimal equipment.",
+          "duration": "30-40 min",
+          "rest_time": "45-60 sec",
+          "number_of_exercises": "6-10",
+          "overview": "Activates all three triceps heads, adaptable using bench or parallel bars for progressive overload.",
+          "how_to_perform": {
+            "start_position": [
+              "Hands on bench or bars, arms extended",
+              "Legs extended in front or body supported above bars"
+            ],
+            "execution": [
+              "Lower body to 90° elbow bend",
+              "Pause briefly and push back to start",
+              "Inhale down, exhale up"
+            ]
+          },
+          "sets_reps": {
+            "beginners": "3 sets of 8-10 reps",
+            "intermediate": "4 sets of 10-12 reps",
+            "advanced": "5 sets of 12-15 reps"
+          }
+        }
+      },
+      {
+        "Close-Grip Bench Press": {
+          "short_description": "Compound press that targets triceps more than traditional bench press.",
+          "duration": "35-45 min",
+          "rest_time": "60-90 sec",
+          "number_of_exercises": "6-10",
+          "overview": "Reduces shoulder strain and allows heavier loads for stronger triceps engagement.",
+          "how_to_perform": {
+            "start_position": [
+              "Lie flat with shoulder-width grip on barbell",
+              "Feet flat, bar over chest"
+            ],
+            "execution": [
+              "Lower bar to lower chest",
+              "Keep elbows close to sides",
+              "Press up to full extension"
+            ]
+          },
+          "sets_reps": {
+            "beginners": "3 sets of 8-10 reps",
+            "intermediate": "4 sets of 10-12 reps",
+            "advanced": "5 sets of 6-8 reps"
+          }
+        }
+      },
+      {
+        "Triceps Pushdowns (Cable)": {
+          "short_description": "Cable-based isolation movement providing consistent tension to triceps.",
+          "duration": "30-40 min",
+          "rest_time": "30-60 sec",
+          "number_of_exercises": "8-12",
+          "overview": "Targets long and lateral triceps heads, maximizing contraction and endurance.",
+          "how_to_perform": {
+            "start_position": [
+              "Stand upright, grip bar or rope with elbows tucked"
+            ],
+            "execution": [
+              "Extend arms downward fully",
+              "Squeeze triceps, then return slowly",
+              "Exhale on push, inhale on return"
+            ]
+          },
+          "sets_reps": {
+            "beginners": "3 sets of 12-15 reps",
+            "intermediate": "4 sets of 12-15 reps",
+            "advanced": "5 sets of 15-20 reps"
+          }
+        }
+      },
+      {
+        "Overhead Triceps Extension (Dumbbell/Barbell)": {
+          "short_description": "Isolation movement targeting long head of the triceps from a stretched position.",
+          "duration": "30-40 min",
+          "rest_time": "30-60 sec",
+          "number_of_exercises": "8-12",
+          "overview": "Promotes triceps growth and flexibility; can be done seated or standing with dumbbell or barbell.",
+          "how_to_perform": {
+            "start_position": [
+              "Hold dumbbell/bar overhead with both hands",
+              "Elbows close, feet shoulder-width"
+            ],
+            "execution": [
+              "Lower behind head to stretch triceps",
+              "Extend arms back overhead",
+              "Inhale down, exhale up"
+            ]
+          },
+          "sets_reps": {
+            "beginners": "3 sets of 10-12 reps",
+            "intermediate": "4 sets of 12-15 reps",
+            "advanced": "5 sets of 15-18 reps"
+          }
+        }
+      },
+      {
+        "Skull Crushers (EZ Bar)": {
+          "short_description": "Isolation movement using EZ bar to target all triceps heads, especially the long head.",
+          "duration": "30-40 min",
+          "rest_time": "45-60 sec",
+          "number_of_exercises": "6-10",
+          "overview": "Minimizes shoulder involvement, enhances elbow extension, and reduces wrist strain.",
+          "how_to_perform": {
+            "start_position": [
+              "Lie on bench, hold EZ bar above chest with overhand grip"
+            ],
+            "execution": [
+              "Lower bar toward forehead with elbows stable",
+              "Extend arms and squeeze triceps at top"
+            ]
+          },
+          "sets_reps": {
+            "beginners": "3 sets of 10-12 reps",
+            "intermediate": "4 sets of 12-15 reps",
+            "advanced": "5 sets of 8-12 reps"
+          }
+        }
+      },
+      {
+        "Diamond Push-Ups": {
+          "short_description": "Bodyweight variation placing intense focus on triceps using narrow hand position.",
+          "duration": "30-40 min",
+          "rest_time": "30-60 sec",
+          "number_of_exercises": "6-10",
+          "overview": "Shifts load onto triceps with diamond-shaped hand placement; ideal for bodyweight progressions.",
+          "how_to_perform": {
+            "start_position": [
+              "Assume plank, form diamond with hands under chest"
+            ],
+            "execution": [
+              "Lower torso keeping elbows close",
+              "Push back up without losing posture"
+            ]
+          },
+          "sets_reps": {
+            "beginners": "3 sets of 8-10 reps",
+            "intermediate": "4 sets of 10-12 reps",
+            "advanced": "5 sets of 12-20 reps"
+          }
+        }
+      },
+      {
+        "Kickbacks (Dumbbell/Cable)": {
+          "short_description": "Isolation exercise maximizing triceps peak contraction; improves definition and tone.",
+          "duration": "30-40 min",
+          "rest_time": "30-45 sec",
+          "number_of_exercises": "8-12",
+          "overview": "Focuses on full extension of the triceps with strict form; best as finisher or in supersets.",
+          "how_to_perform": {
+            "start_position": [
+              "Hold dumbbell or cable handle, hinge at hips, elbow at 90°"
+            ],
+            "execution": [
+              "Extend arm fully behind",
+              "Pause and squeeze triceps",
+              "Return slowly with control"
+            ]
+          },
+          "sets_reps": {
+            "beginners": "3 sets of 12-15 reps",
+            "intermediate": "4 sets of 15 reps",
+            "advanced": "5 sets of 15-20 reps"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "LEG EXERCISES": [
+      {
+        "Squats (Barbell/Dumbbell/Bodyweight)": {
+          "short_description": "Essential compound movement for strength, size, and coordination in the lower body.",
+          "duration": "35-45 min",
+          "rest_time": "60-90 sec",
+          "number_of_exercises": "6-10",
+          "overview": "Engages quads, hamstrings, glutes, and core. Variation in equipment targets different training goals.",
+          "how_to_perform": {
+            "start_position": [
+              "Stand shoulder-width apart",
+              "Hold barbell on upper back, dumbbells at sides, or arms forward"
+            ],
+            "execution": [
+              "Bend hips and knees until thighs are parallel",
+              "Drive through heels to return to standing"
+            ]
+          },
+          "sets_reps": {
+            "beginners": "3 sets of 10-12 reps",
+            "intermediate": "4 sets of 8-10 reps",
+            "advanced": "5 sets of 6-8 reps"
+          }
+        }
+      },
+      {
+        "Lunges (Walking, Static, Reverse)": {
+          "short_description": "Unilateral movement improving leg strength, balance, and mobility.",
+          "duration": "30-40 min",
+          "rest_time": "30-60 sec",
+          "number_of_exercises": "6-10",
+          "overview": "Targets quads, hamstrings, and glutes while strengthening the core and stabilizers.",
+          "how_to_perform": {
+            "start_position": [
+              "Stand upright with dumbbells at sides or hands on hips"
+            ],
+            "execution": [
+              "Step forward or backward into a lunge",
+              "Lower rear knee while front knee stays above ankle",
+              "Return by pushing through front heel"
+            ]
+          },
+          "sets_reps": {
+            "beginners": "3 sets of 10 reps per leg",
+            "intermediate": "4 sets of 12 reps per leg",
+            "advanced": "5 sets of 12-15 reps per leg"
+          }
+        }
+      },
+      {
+        "Leg Press": {
+          "short_description": "Machine-based compound movement for quad, hamstring, and glute development.",
+          "duration": "30-40 min",
+          "rest_time": "60-90 sec",
+          "number_of_exercises": "6-10",
+          "overview": "Safe for heavy loading with less spinal stress, great for muscle hypertrophy and strength.",
+          "how_to_perform": {
+            "start_position": [
+              "Sit on leg press machine, feet shoulder-width on platform"
+            ],
+            "execution": [
+              "Lower platform to 90° at knees",
+              "Press up through heels without locking knees"
+            ]
+          },
+          "sets_reps": {
+            "beginners": "3 sets of 10-12 reps",
+            "intermediate": "4 sets of 10 reps",
+            "advanced": "5 sets of 8-10 reps"
+          }
+        }
+      },
+      {
+        "Leg Extensions": {
+          "short_description": "Machine-based isolation exercise focusing exclusively on the quadriceps.",
+          "duration": "25-35 min",
+          "rest_time": "30-45 sec",
+          "number_of_exercises": "6-10",
+          "overview": "Helps build quad shape and strength with consistent tension and minimal joint strain.",
+          "how_to_perform": {
+            "start_position": [
+              "Adjust machine seat and place shins behind padded bar"
+            ],
+            "execution": [
+              "Extend legs to straight position",
+              "Pause and squeeze quads at top"
+            ]
+          },
+          "sets_reps": {
+            "beginners": "3 sets of 12-15 reps",
+            "intermediate": "4 sets of 12-15 reps",
+            "advanced": "5 sets of 15-20 reps"
+          }
+        }
+      },
+      {
+        "Hamstring Curls (Seated or Lying Machine)": {
+          "short_description": "Isolation movement for hamstring development and knee joint stability.",
+          "duration": "25-35 min",
+          "rest_time": "30-60 sec",
+          "number_of_exercises": "6-10",
+          "overview": "Targets hamstrings via knee flexion; improves balance and athletic performance.",
+          "how_to_perform": {
+            "start_position": [
+              "Position yourself on the machine with pad above heels",
+              "Align knees with pivot point"
+            ],
+            "execution": [
+              "Curl heels toward glutes",
+              "Squeeze hamstrings, return slowly"
+            ]
+          },
+          "sets_reps": {
+            "beginners": "3 sets of 12-15 reps",
+            "intermediate": "4 sets of 10-12 reps",
+            "advanced": "5 sets of 12-15 reps"
+          }
+        }
+      },
+      {
+        "Bulgarian Split Squats": {
+          "short_description": "Unilateral lower-body movement enhancing leg strength, symmetry, and mobility.",
+          "duration": "30-45 min",
+          "rest_time": "45-60 sec",
+          "number_of_exercises": "6-10",
+          "overview": "Rear foot elevated lunge focusing on quads and glutes with improved ROM and stability.",
+          "how_to_perform": {
+            "start_position": [
+              "Stand a few feet in front of bench with rear foot elevated"
+            ],
+            "execution": [
+              "Lower rear knee while keeping front knee above ankle",
+              "Push through front heel to stand up"
+            ]
+          },
+          "sets_reps": {
+            "beginners": "3 sets of 8-10 reps per leg",
+            "intermediate": "4 sets of 10-12 reps per leg",
+            "advanced": "5 sets of 12-15 reps per leg"
+          }
+        }
+      },
+      {
+        "Step-Ups": {
+          "short_description": "Functional unilateral movement for building strength, coordination, and balance.",
+          "duration": "30-40 min",
+          "rest_time": "30-60 sec",
+          "number_of_exercises": "6-10",
+          "overview": "Improves athletic performance and leg strength using natural step pattern, scalable with weights.",
+          "how_to_perform": {
+            "start_position": [
+              "Stand in front of a sturdy box, optionally holding dumbbells"
+            ],
+            "execution": [
+              "Step up with lead foot, bring trailing leg up",
+              "Step down with control, repeat or switch legs"
+            ]
+          },
+          "sets_reps": {
+            "beginners": "3 sets of 10 reps per leg",
+            "intermediate": "4 sets of 10-12 reps per leg",
+            "advanced": "5 sets of 12-15 reps per leg"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "BACK EXERCISES": [
+      {
+        "Pull-Ups (Wide-Grip, Close-Grip, Neutral-Grip)": {
+          "short_description": "Bodyweight compound movement for building upper-back strength with grip-based variations.",
+          "duration": "25-35 min",
+          "rest_time": "60-90 sec",
+          "number_of_exercises": "6-10",
+          "overview": "Wide grip targets outer lats, close grip emphasizes biceps and lower lats, neutral grip is shoulder-friendly.",
+          "how_to_perform": {
+            "start_position": [
+              "Hang from bar using preferred grip (wide, close, neutral)",
+              "Engage core, slightly bend legs, retract shoulder blades"
+            ],
+            "execution": [
+              "Pull up by driving elbows down and back",
+              "Chin above bar, lower back slowly"
+            ]
+          },
+          "sets_reps": {
+            "beginners": "3 sets of 5–8 reps (assisted)",
+            "intermediate": "4 sets of 8–12 reps",
+            "advanced": "5 sets of 10–15 reps (weighted)"
+          }
+        }
+      },
+      {
+        "Deadlifts (Conventional, Romanian, Sumo)": {
+          "short_description": "Powerful compound lift engaging posterior chain: back, glutes, hamstrings, and traps.",
+          "duration": "40-50 min",
+          "rest_time": "90-120 sec",
+          "number_of_exercises": "6-10",
+          "overview": "Conventional focuses on spinal erectors, Romanian on glutes/hamstrings, Sumo on hips/lower back.",
+          "how_to_perform": {
+            "start_position": [
+              "Stand with barbell over midfoot",
+              "Grip just outside knees (conventional/sumo), shoulder-width (Romanian)",
+              "Neutral spine, braced core"
+            ],
+            "execution": [
+              "Drive through heels, keep bar close to body",
+              "Lock out hips and shoulders at top",
+              "Lower by hinging at hips"
+            ]
+          },
+          "sets_reps": {
+            "beginners": "3 sets of 6–8 reps",
+            "intermediate": "4 sets of 6–10 reps",
+            "advanced": "5 sets of 4–6 reps"
+          }
+        }
+      },
+      {
+        "Lat Pulldown": {
+          "short_description": "Cable exercise mimicking pull-ups; targets lats, biceps, and upper back.",
+          "duration": "30-40 min",
+          "rest_time": "45-60 sec",
+          "number_of_exercises": "6-10",
+          "overview": "Beginner-friendly and effective for all levels; various grips target different muscle fibers.",
+          "how_to_perform": {
+            "start_position": [
+              "Sit and secure thighs under pads",
+              "Grip bar wide with retracted scapulae"
+            ],
+            "execution": [
+              "Pull bar to upper chest, elbows driving down",
+              "Squeeze lats, control bar up"
+            ]
+          },
+          "sets_reps": {
+            "beginners": "3 sets of 12–15 reps",
+            "intermediate": "4 sets of 10–12 reps",
+            "advanced": "5 sets of 8–10 reps"
+          }
+        }
+      },
+      {
+        "Bent-Over Rows (Barbell/Dumbbell)": {
+          "short_description": "Key compound pull targeting lats, rhomboids, traps, and rear delts.",
+          "duration": "35-45 min",
+          "rest_time": "60-90 sec",
+          "number_of_exercises": "6-10",
+          "overview": "Barbell rows build mass and strength; dumbbells allow unilateral focus and better ROM.",
+          "how_to_perform": {
+            "start_position": [
+              "Hinge at hips, torso near-parallel to floor",
+              "Hold weights with arms extended"
+            ],
+            "execution": [
+              "Row weights toward torso",
+              "Squeeze scapulae, lower slowly"
+            ]
+          },
+          "sets_reps": {
+            "beginners": "3 sets of 10–12 reps",
+            "intermediate": "4 sets of 8–10 reps",
+            "advanced": "5 sets of 6–8 reps"
+          }
+        }
+      },
+      {
+        "Seated Cable Rows": {
+          "short_description": "Cable-based horizontal row for lats, rhomboids, and traps.",
+          "duration": "30-40 min",
+          "rest_time": "45-75 sec",
+          "number_of_exercises": "6-10",
+          "overview": "Provides controlled tension and promotes postural strength; handles can vary emphasis.",
+          "how_to_perform": {
+            "start_position": [
+              "Sit upright, grasp V-handle or wide bar",
+              "Place feet on platform, bend knees slightly"
+            ],
+            "execution": [
+              "Pull handle toward torso, retracting shoulder blades",
+              "Pause, then slowly extend arms"
+            ]
+          },
+          "sets_reps": {
+            "beginners": "3 sets of 12–15 reps",
+            "intermediate": "4 sets of 10–12 reps",
+            "advanced": "5 sets of 8–10 reps"
+          }
+        }
+      },
+      {
+        "T-Bar Rows": {
+          "short_description": "Heavy row variation for mid-back mass and strength.",
+          "duration": "35-45 min",
+          "rest_time": "60-90 sec",
+          "number_of_exercises": "6-10",
+          "overview": "Chest-supported version reduces spinal load; adjustable grips shift muscular focus.",
+          "how_to_perform": {
+            "start_position": [
+              "Support chest on pad or stand over bar",
+              "Grip handle with neutral/wide grip"
+            ],
+            "execution": [
+              "Pull handle toward chest",
+              "Pause and squeeze at top, lower slowly"
+            ]
+          },
+          "sets_reps": {
+            "beginners": "3 sets of 10–12 reps",
+            "intermediate": "4 sets of 8–10 reps",
+            "advanced": "5 sets of 6–8 reps"
+          }
+        }
+      },
+      {
+        "Face Pulls": {
+          "short_description": "Isolation cable pull for rear delts, upper traps, and rotator cuff stability.",
+          "duration": "20-30 min",
+          "rest_time": "30-60 sec",
+          "number_of_exercises": "6-10",
+          "overview": "Great finisher for posture, scapular health, and upper-back definition.",
+          "how_to_perform": {
+            "start_position": [
+              "Set rope to upper chest level",
+              "Grip handles and step back for tension"
+            ],
+            "execution": [
+              "Pull rope toward face, flaring elbows",
+              "Squeeze traps and rear delts at top"
+            ]
+          },
+          "sets_reps": {
+            "beginners": "3 sets of 15–20 reps",
+            "intermediate": "4 sets of 12–15 reps",
+            "advanced": "5 sets of 12–15 reps"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "GLUTE EXERCISES": [
+      {
+        "Hip Thrusts": {
+          "short_description": "Glute isolation exercise emphasizing gluteus maximus with secondary hamstring and core engagement.",
+          "duration": "30–45 min",
+          "rest_time": "60–90 sec",
+          "number_of_exercises": "6–10",
+          "overview": "Delivers max glute activation with minimal spinal stress; can be loaded with barbell, dumbbell, or bands.",
+          "how_to_perform": {
+            "start_position": [
+              "Sit on floor with upper back against bench, barbell over hips",
+              "Feet flat and knees bent, core braced"
+            ],
+            "execution": [
+              "Drive through heels to lift hips",
+              "Squeeze glutes at top, lower with control"
+            ]
+          },
+          "sets_reps": {
+            "beginners": "3 sets of 10–12 reps",
+            "intermediate": "4 sets of 10–15 reps",
+            "advanced": "5 sets of 8–12 reps"
+          }
+        }
+      },
+      {
+        "Glute Bridges": {
+          "short_description": "Foundational bodyweight or weighted movement for glute activation and endurance.",
+          "duration": "20–30 min",
+          "rest_time": "30–60 sec",
+          "number_of_exercises": "6–10",
+          "overview": "Low-impact glute builder used in warm-ups or finishers, improves hip stability and mobility.",
+          "how_to_perform": {
+            "start_position": [
+              "Lie on back with knees bent, feet flat",
+              "Hands at sides, head and back grounded"
+            ],
+            "execution": [
+              "Lift hips, squeezing glutes at top",
+              "Lower slowly to just above ground"
+            ]
+          },
+          "sets_reps": {
+            "beginners": "3 sets of 15–20 reps",
+            "intermediate": "4 sets of 12–15 reps",
+            "advanced": "5 sets of 10–12 reps"
+          }
+        }
+      },
+      {
+        "Bulgarian Split Squats": {
+          "short_description": "Unilateral squat variation emphasizing glutes, quads, and hamstrings while improving stability.",
+          "duration": "30–40 min",
+          "rest_time": "60–90 sec",
+          "number_of_exercises": "6–10",
+          "overview": "Uses rear leg elevation to enhance range of motion and isolate working glute.",
+          "how_to_perform": {
+            "start_position": [
+              "Stand in front of bench, place rear foot on bench",
+              "Hold dumbbells or use barbell"
+            ],
+            "execution": [
+              "Lower rear knee, front knee over ankle",
+              "Push through front heel to rise"
+            ]
+          },
+          "sets_reps": {
+            "beginners": "3 sets of 8–10 reps per leg",
+            "intermediate": "4 sets of 10–12 reps per leg",
+            "advanced": "5 sets of 8–10 reps per leg"
+          }
+        }
+      },
+      {
+        "Sumo Deadlifts": {
+          "short_description": "Wide-stance deadlift variation that targets glutes, adductors, and hamstrings.",
+          "duration": "40–50 min",
+          "rest_time": "90–120 sec",
+          "number_of_exercises": "6–10",
+          "overview": "Ideal for lifters needing lower back relief while maximizing hip and glute power.",
+          "how_to_perform": {
+            "start_position": [
+              "Feet wider than shoulder-width, toes out",
+              "Grip bar inside knees, spine neutral"
+            ],
+            "execution": [
+              "Push through heels, drive hips forward",
+              "Lower by hinging hips under control"
+            ]
+          },
+          "sets_reps": {
+            "beginners": "3 sets of 8–10 reps",
+            "intermediate": "4 sets of 6–8 reps",
+            "advanced": "5 sets of 4–6 reps"
+          }
+        }
+      },
+      {
+        "Romanian Deadlifts (Barbell or Dumbbell)": {
+          "short_description": "Hip-hinge movement focusing on hamstrings and glutes with eccentric control.",
+          "duration": "30–40 min",
+          "rest_time": "60–90 sec",
+          "number_of_exercises": "6–10",
+          "overview": "Improves hip mechanics, posterior chain strength, and flexibility; ideal for hypertrophy.",
+          "how_to_perform": {
+            "start_position": [
+              "Stand upright holding weights in front",
+              "Shoulders back, core braced, slight knee bend"
+            ],
+            "execution": [
+              "Hinge at hips to lower weights along legs",
+              "Stop at shin/mid-calf, return squeezing glutes"
+            ]
+          },
+          "sets_reps": {
+            "beginners": "3 sets of 10–12 reps",
+            "intermediate": "4 sets of 8–10 reps",
+            "advanced": "5 sets of 6–8 reps"
+          }
+        }
+      },
+      {
+        "Cable Kickbacks": {
+          "short_description": "Single-leg isolation for glutes emphasizing peak contraction and symmetry.",
+          "duration": "20–30 min",
+          "rest_time": "30–60 sec",
+          "number_of_exercises": "8–12",
+          "overview": "Enhances mind-muscle connection and shape; ideal for sculpting glutes and balancing sides.",
+          "how_to_perform": {
+            "start_position": [
+              "Attach ankle strap to low cable",
+              "Stand and hold machine for balance"
+            ],
+            "execution": [
+              "Kick leg back and up with glute squeeze",
+              "Return slowly while maintaining tension"
+            ]
+          },
+          "sets_reps": {
+            "beginners": "3 sets of 15–20 reps per leg",
+            "intermediate": "4 sets of 12–15 reps per leg",
+            "advanced": "5 sets of 10–12 reps per leg"
+          }
+        }
+      },
+      {
+        "Step-Ups (Bodyweight or Weighted)": {
+          "short_description": "Functional unilateral movement for glutes, quads, and hamstrings with athletic crossover.",
+          "duration": "30–40 min",
+          "rest_time": "45–75 sec",
+          "number_of_exercises": "6–10",
+          "overview": "Replicates real-life movement patterns; excellent for power, balance, and endurance.",
+          "how_to_perform": {
+            "start_position": [
+              "Stand before a box or bench, hold weights optionally"
+            ],
+            "execution": [
+              "Step up through heel, bring other leg up",
+              "Step down under control, alternate legs"
+            ]
+          },
+          "sets_reps": {
+            "beginners": "3 sets of 10–12 reps per leg",
+            "intermediate": "4 sets of 10–15 reps",
+            "advanced": "5 sets of 8–10 reps per leg"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "ABS (Core) EXERCISES": [
+      {
+        "Crunches": {
+          "short_description": "Classic isolation movement targeting upper abs for strength and definition.",
+          "duration": "20–30 min",
+          "rest_time": "30–45 sec",
+          "number_of_exercises": "6–10",
+          "overview": "Primarily targets rectus abdominis; minimal equipment required; scalable by adding weight or using variations.",
+          "how_to_perform": {
+            "start_position": [
+              "Lie on back, knees bent, feet flat",
+              "Hands behind head or across chest"
+            ],
+            "execution": [
+              "Lift upper back using abs",
+              "Pause at top, lower slowly"
+            ]
+          },
+          "sets_reps": {
+            "beginners": "3 sets of 15–20 reps",
+            "intermediate": "4 sets of 20–25 reps",
+            "advanced": "5 sets of 25–30 reps"
+          }
+        }
+      },
+      {
+        "Planks (Front, Side, Reverse)": {
+          "short_description": "Isometric core exercise engaging full abdominal wall and stabilizers.",
+          "duration": "20–30 min",
+          "rest_time": "30–60 sec",
+          "number_of_exercises": "6–8",
+          "overview": "Improves posture, endurance, and deep core stability; great for spinal health and performance.",
+          "how_to_perform": {
+            "start_position": [
+              "Forearms on floor under shoulders",
+              "Body in straight line, core braced"
+            ],
+            "execution": [
+              "Hold without sagging or arching",
+              "Breathe deeply and maintain full-body tension"
+            ]
+          },
+          "sets_reps": {
+            "beginners": "3 sets of 20–30 sec",
+            "intermediate": "4 sets of 30–45 sec",
+            "advanced": "5 sets of 60+ sec"
+          }
+        }
+      },
+      {
+        "Leg Raises (Hanging or Floor)": {
+          "short_description": "Targets lower abs and hip flexors, improves abdominal control and coordination.",
+          "duration": "25–35 min",
+          "rest_time": "30–60 sec",
+          "number_of_exercises": "6–10",
+          "overview": "Hanging variation builds grip strength and intensity; floor version aids beginners in mastering control.",
+          "how_to_perform": {
+            "start_position": [
+              "Hang from bar or lie flat on back",
+              "Keep legs extended and core tight"
+            ],
+            "execution": [
+              "Lift legs to 90°, lower slowly",
+              "Avoid swinging or back arching"
+            ]
+          },
+          "sets_reps": {
+            "beginners": "3 sets of 10–12 reps",
+            "intermediate": "4 sets of 12–15 reps",
+            "advanced": "5 sets of 10–12 reps"
+          }
+        }
+      },
+      {
+        "Russian Twists": {
+          "short_description": "Rotational movement focusing on obliques and core balance.",
+          "duration": "20–30 min",
+          "rest_time": "30–45 sec",
+          "number_of_exercises": "8–12",
+          "overview": "Great for rotational strength and torso coordination; weighted versions increase intensity.",
+          "how_to_perform": {
+            "start_position": [
+              "Sit with knees bent, feet lifted or on floor",
+              "Lean back slightly, hold weight or hands together"
+            ],
+            "execution": [
+              "Twist side to side touching floor beside hips",
+              "Maintain control and open chest"
+            ]
+          },
+          "sets_reps": {
+            "beginners": "3 sets of 20 reps (10 per side)",
+            "intermediate": "4 sets of 30 reps",
+            "advanced": "5 sets of 40+ reps"
+          }
+        }
+      },
+      {
+        "Bicycle Crunches": {
+          "short_description": "Dynamic ab exercise combining rotation and crunch for upper/lower ab activation.",
+          "duration": "20–30 min",
+          "rest_time": "30–45 sec",
+          "number_of_exercises": "8–12",
+          "overview": "Improves coordination and endurance; increases heart rate for fat burning.",
+          "how_to_perform": {
+            "start_position": [
+              "Lie on back, hands behind head, legs in tabletop"
+            ],
+            "execution": [
+              "Twist and bring elbow to opposite knee",
+              "Switch sides in pedaling motion"
+            ]
+          },
+          "sets_reps": {
+            "beginners": "3 sets of 20 reps",
+            "intermediate": "4 sets of 30–40 reps",
+            "advanced": "5 sets of 40–50 reps"
+          }
+        }
+      },
+      {
+        "Ab Rollouts (Ab Wheel or Barbell)": {
+          "short_description": "Advanced core exercise for total abdominal wall and stabilizer engagement.",
+          "duration": "20–30 min",
+          "rest_time": "45–75 sec",
+          "number_of_exercises": "6–10",
+          "overview": "Strengthens deep core muscles with long range movement; requires proper form to avoid back strain.",
+          "how_to_perform": {
+            "start_position": [
+              "Kneel with hands on ab wheel/barbell under shoulders"
+            ],
+            "execution": [
+              "Roll forward keeping spine neutral",
+              "Return by pulling with core and lats"
+            ]
+          },
+          "sets_reps": {
+            "beginners": "3 sets of 6–8 reps",
+            "intermediate": "4 sets of 8–10 reps",
+            "advanced": "5 sets of 10–12 reps"
+          }
+        }
+      },
+      {
+        "Cable Woodchoppers": {
+          "short_description": "Rotational movement targeting obliques and lower core using a cable system.",
+          "duration": "20–30 min",
+          "rest_time": "30–60 sec",
+          "number_of_exercises": "8–10",
+          "overview": "Builds rotational strength and torso control; ideal for sports and functional training.",
+          "how_to_perform": {
+            "start_position": [
+              "Stand sideways to cable machine with D-handle in hands",
+              "Feet shoulder-width apart, arms extended"
+            ],
+            "execution": [
+              "Pull handle diagonally across body",
+              "Rotate torso and control return"
+            ]
+          },
+          "sets_reps": {
+            "beginners": "3 sets of 10–12 reps per side",
+            "intermediate": "4 sets of 12–15 reps",
+            "advanced": "5 sets of 15–20 reps"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "CALF EXERCISES": [
+      {
+        "Standing Calf Raises": {
+          "short_description": "Targets gastrocnemius to build size, ankle strength, and leg endurance.",
+          "duration": "15–25 min",
+          "rest_time": "30–60 sec",
+          "number_of_exercises": "4–6",
+          "overview": "Emphasizes the gastrocnemius through straight-knee stance; improves ankle stability and explosive lower-body movement.",
+          "how_to_perform": {
+            "start_position": [
+              "Stand with feet shoulder-width apart on flat ground or step",
+              "Hold dumbbells or barbell for resistance, core tight"
+            ],
+            "execution": [
+              "Press through balls of feet to raise heels as high as possible",
+              "Pause briefly at top, lower heels slowly under control"
+            ]
+          },
+          "sets_reps": {
+            "beginners": "3 sets of 15–20 reps",
+            "intermediate": "4 sets of 20–25 reps",
+            "advanced": "5 sets of 25–30 reps"
+          }
+        }
+      },
+      {
+        "Seated Calf Raises": {
+          "short_description": "Isolates the soleus muscle to improve endurance, posture, and balance.",
+          "duration": "15–20 min",
+          "rest_time": "30–45 sec",
+          "number_of_exercises": "4–6",
+          "overview": "Bent-knee position targets the soleus and improves muscle density and ankle control.",
+          "how_to_perform": {
+            "start_position": [
+              "Sit with knees at 90°, feet on platform, weight on thighs"
+            ],
+            "execution": [
+              "Raise heels by contracting calves, pause at top",
+              "Lower heels slowly below platform if possible"
+            ]
+          },
+          "sets_reps": {
+            "beginners": "3 sets of 15–20 reps",
+            "intermediate": "4 sets of 20–25 reps",
+            "advanced": "5 sets of 25–30 reps"
+          }
+        }
+      },
+      {
+        "Donkey Calf Raises": {
+          "short_description": "Emphasizes gastrocnemius with deep stretch using hip-hinge position.",
+          "duration": "15–25 min",
+          "rest_time": "45–60 sec",
+          "number_of_exercises": "4–6",
+          "overview": "Bent-over position enhances stretch and thickness of the calves.",
+          "how_to_perform": {
+            "start_position": [
+              "Lean forward onto a bench, knees slightly bent, weight on hips"
+            ],
+            "execution": [
+              "Raise heels as high as possible, pause at top",
+              "Lower heels for a deep stretch under control"
+            ]
+          },
+          "sets_reps": {
+            "beginners": "3 sets of 15–20 reps",
+            "intermediate": "4 sets of 20–25 reps",
+            "advanced": "5 sets of 25–30 reps"
+          }
+        }
+      },
+      {
+        "Jump Rope": {
+          "short_description": "Plyometric cardio that builds calf strength, stamina, and reactivity.",
+          "duration": "15–30 min",
+          "rest_time": "30–45 sec",
+          "number_of_exercises": "4–8",
+          "overview": "High-frequency bouncing targets calf endurance; improves athleticism and coordination.",
+          "how_to_perform": {
+            "start_position": [
+              "Stand upright with jump rope in hand, rope behind you"
+            ],
+            "execution": [
+              "Swing rope forward, jump using balls of feet",
+              "Land softly and keep rhythm with small, quick bounces"
+            ]
+          },
+          "sets_reps": {
+            "beginners": "3 sets of 30–60 sec",
+            "intermediate": "4 sets of 1–2 min",
+            "advanced": "5 sets of 2–3 min"
+          }
+        }
+      },
+      {
+        "Farmer’s Walk on Toes": {
+          "short_description": "Loaded walking movement on tiptoes to build calves, balance, and grip strength.",
+          "duration": "15–20 min",
+          "rest_time": "60–90 sec",
+          "number_of_exercises": "4–6",
+          "overview": "Trains calves isometrically and dynamically for real-world movement and posture control.",
+          "how_to_perform": {
+            "start_position": [
+              "Hold heavy dumbbells, lift heels off ground, stay on balls of feet"
+            ],
+            "execution": [
+              "Walk forward with short steps on toes",
+              "Maintain posture, avoid letting heels touch ground"
+            ]
+          },
+          "sets_reps": {
+            "beginners": "3 sets of 15–20 sec",
+            "intermediate": "4 sets of 20–30 sec",
+            "advanced": "5 sets of 30–45 sec"
+          }
+        }
+      },
+      {
+        "Tibialis Raises": {
+          "short_description": "Strengthens the tibialis anterior to improve ankle control, prevent shin splints, and balance calf training.",
+          "duration": "10–15 min",
+          "rest_time": "30–45 sec",
+          "number_of_exercises": "3–5",
+          "overview": "Essential for runners and jumpers; improves dorsiflexion and stride mechanics.",
+          "how_to_perform": {
+            "start_position": [
+              "Back against wall, feet 6–8 inches out, heels planted"
+            ],
+            "execution": [
+              "Lift toes toward shin, hold contraction",
+              "Lower slowly while maintaining control"
+            ]
+          },
+          "sets_reps": {
+            "beginners": "3 sets of 10–15 reps",
+            "intermediate": "4 sets of 15–20 reps",
+            "advanced": "5 sets of 20–30 reps"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "FOREARM FLEXOR EXERCISES": [
+      {
+        "Reverse Wrist Curls": {
+          "short_description": "Targets wrist extensors to balance forearm development, strengthen wrists, and prevent overuse injuries.",
+          "duration": "10–15 min",
+          "rest_time": "30–60 sec",
+          "number_of_exercises": "3–5",
+          "overview": "Works the often-neglected wrist extensors, improving wrist stability and forearm symmetry.",
+          "how_to_perform": {
+            "start_position": [
+              "Sit on bench holding dumbbells or barbell with overhand grip",
+              "Rest forearms on thighs or flat surface with wrists hanging off"
+            ],
+            "execution": [
+              "Lower weight to allow wrist to dip",
+              "Lift weight by extending wrists only",
+              "Pause at top, avoid elbow movement"
+            ]
+          },
+          "sets_reps": {
+            "beginners": "3 sets of 12–15 reps",
+            "intermediate": "4 sets of 15–20 reps",
+            "advanced": "5 sets of 20–25 reps"
+          }
+        }
+      },
+      {
+        "Farmer’s Walk": {
+          "short_description": "Full-body carry that focuses on grip, forearms, and core while building functional strength.",
+          "duration": "15–25 min",
+          "rest_time": "60–90 sec",
+          "number_of_exercises": "4–6",
+          "overview": "Enhances grip endurance, posture, and overall strength through loaded carries.",
+          "how_to_perform": {
+            "start_position": [
+              "Pick up heavy dumbbells or kettlebells, stand upright"
+            ],
+            "execution": [
+              "Walk forward with short, controlled steps",
+              "Maintain upright posture and strong grip"
+            ]
+          },
+          "sets_reps": {
+            "beginners": "3 sets of 15–20 sec",
+            "intermediate": "4 sets of 20–30 sec",
+            "advanced": "5 sets of 30–45 sec"
+          }
+        }
+      },
+      {
+        "Dead Hangs": {
+          "short_description": "Isometric hold from a bar to strengthen grip, decompress spine, and stabilize shoulders.",
+          "duration": "10–15 min",
+          "rest_time": "45–60 sec",
+          "number_of_exercises": "3–5",
+          "overview": "Trains grip strength, scapular control, spinal decompression, and mental toughness.",
+          "how_to_perform": {
+            "start_position": [
+              "Grab pull-up bar with overhand grip, arms extended, feet off ground"
+            ],
+            "execution": [
+              "Engage shoulders and core, hold still position without swinging",
+              "Breathe rhythmically and maintain grip"
+            ]
+          },
+          "sets_reps": {
+            "beginners": "3 sets of 15–20 sec",
+            "intermediate": "4 sets of 30–45 sec",
+            "advanced": "5 sets of 45–60+ sec (or add weight)"
+          }
+        }
+      },
+      {
+        "Grip Strength Trainer (Hand Grippers)": {
+          "short_description": "Trains finger, hand, and forearm muscles through focused crushing resistance.",
+          "duration": "10–15 min",
+          "rest_time": "30–60 sec",
+          "number_of_exercises": "3–5",
+          "overview": "Builds crush strength, hand endurance, and grip control for lifting, climbing, or sports.",
+          "how_to_perform": {
+            "start_position": [
+              "Hold gripper in dominant hand with base resting in palm, wrist neutral"
+            ],
+            "execution": [
+              "Squeeze handles fully together, pause at top",
+              "Release slowly under control"
+            ]
+          },
+          "sets_reps": {
+            "beginners": "3 sets of 10–12 reps per hand",
+            "intermediate": "4 sets of 12–15 reps per hand",
+            "advanced": "5 sets of 15–20 reps per hand with slow release"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "FOREARM EXTENSOR EXERCISES": [
+      {
+        "Reverse Wrist Curls": {
+          "short_description": "Targets outer forearm extensors for balance and wrist joint stability.",
+          "duration": "10–15 minutes",
+          "rest_time": "30–60 seconds",
+          "number_of_exercises": "3–5 total",
+          "overview": "Improves functional wrist stability and counters grip-dominant movement imbalances. Ideal for climbers, lifters, and desk workers.",
+          "how_to_perform": {
+            "start_position": [
+              "Sit on a bench with forearms on thighs or flat surface.",
+              "Hold barbell/dumbbells with overhand grip, wrists hanging off the edge."
+            ],
+            "execution": [
+              "Lower weights by dipping wrists downward.",
+              "Raise by extending at the wrist and pause at top contraction.",
+              "Keep elbows still and motion isolated to wrists."
+            ]
+          },
+          "sets_reps": {
+            "beginners": "3 sets of 12–15 reps",
+            "intermediate": "4 sets of 15–20 reps",
+            "advanced": "5 sets of 20–25 reps"
+          }
+        }
+      },
+      {
+        "Finger Extensions with Rubber Bands": {
+          "short_description": "Strengthens hand extensors, counters overuse from gripping, improves dexterity.",
+          "duration": "5–10 minutes",
+          "rest_time": "20–30 seconds",
+          "number_of_exercises": "2–4 total",
+          "overview": "Prevents imbalances and overuse injuries, essential for athletes and high-repetition hand use.",
+          "how_to_perform": {
+            "start_position": [
+              "Place resistance band around all fingers with mild tension."
+            ],
+            "execution": [
+              "Open fingers against resistance.",
+              "Pause at full extension, then return slowly."
+            ]
+          },
+          "sets_reps": {
+            "beginners": "2–3 sets of 15–20 reps",
+            "intermediate": "3–4 sets of 20–25 reps",
+            "advanced": "4–5 sets of 25–30 reps"
+          }
+        }
+      },
+      {
+        "Dead Hangs": {
+          "short_description": "Builds grip endurance, decompresses spine, improves shoulder health.",
+          "duration": "10–15 minutes",
+          "rest_time": "45–60 seconds",
+          "number_of_exercises": "3–5 total",
+          "overview": "Strengthens full upper body through passive hanging. Enhances posture and shoulder integrity.",
+          "how_to_perform": {
+            "start_position": [
+              "Hang from pull-up bar with overhand grip, shoulder-width apart."
+            ],
+            "execution": [
+              "Hold steady without swaying, breathe rhythmically."
+            ]
+          },
+          "sets_reps": {
+            "beginners": "3 sets of 15–20 seconds",
+            "intermediate": "4 sets of 30–45 seconds",
+            "advanced": "5 sets of 45–60+ seconds"
+          }
+        }
+      },
+      {
+        "Reverse Curls (Barbell / Dumbbell)": {
+          "short_description": "Strengthens brachialis and brachioradialis for thicker forearms and elbow support.",
+          "duration": "10–15 minutes",
+          "rest_time": "45–60 seconds",
+          "number_of_exercises": "3–5 total",
+          "overview": "Overhand curl emphasizing outer biceps and wrist control. Enhances pulling performance and joint protection.",
+          "how_to_perform": {
+            "start_position": [
+              "Stand with barbell or dumbbells using shoulder-width overhand grip."
+            ],
+            "execution": [
+              "Curl weight up with elbows fixed.",
+              "Squeeze forearms at top, lower slowly."
+            ]
+          },
+          "sets_reps": {
+            "beginners": "3 sets of 10–12 reps",
+            "intermediate": "4 sets of 12–15 reps",
+            "advanced": "5 sets of 15–18 reps"
+          }
+        }
+      },
+      {
+        "Towel Hangs for Grip Strength": {
+          "short_description": "Challenging grip isometric using towels for enhanced forearm activation.",
+          "duration": "8–12 minutes",
+          "rest_time": "60–90 seconds",
+          "number_of_exercises": "2–4 total",
+          "overview": "Great for climbers and grapplers. Builds grip strength, finger power, and core stability.",
+          "how_to_perform": {
+            "start_position": [
+              "Drape towels over pull-up bar and grip one in each hand."
+            ],
+            "execution": [
+              "Hold firm without swinging, keep core braced, maintain grip engagement."
+            ]
+          },
+          "sets_reps": {
+            "beginners": "3 sets of 10–20 seconds",
+            "intermediate": "4 sets of 20–30 seconds",
+            "advanced": "5 sets of 30–45+ seconds"
+          }
+        }
+      }
+    ]
+  },
+{
+    "CARDIO TRAINING": [
+        {
+            "Running / Jogging": {
+                "short_description": "Running and walking are foundational cardio exercises that enhance cardiovascular fitness, endurance, lower-body strength, and mental resilience.",
+               
+                    "duration": "15\u201345 mins",
+                    "rest_time": "As recovered",
+                    "number_of_exercises": "1\u20133 variations",
+               
+                "overview": "Running and walking require minimal equipment and provide maximal benefit. From boosting heart health to improving mood and coordination.",
+                "how_to_perform": {
+                    "start_position": ["Stand tall with feet hip-width apart, shoulders relaxed."],
+                    "execution": ["Begin with a steady pace. Maintain proper posture, breathe rhythmically, and adjust tempo to match training goal."]
+                },
+                "sets_reps": {
+                    "beginners": "20\u20131.5 hour jog/walk mix",
+                    "intermediate": "30\u201340 mins steady or intervals",
+                    "advanced": "40\u201360 mins tempo, intervals, or long run"
+                }
+            }
+        },
+        {
+            "Cycling (Outdoor or Stationary)": {
+                "short_description": "Cycling delivers joint-friendly cardio conditioning while building muscular endurance and strength in the legs.",
+                
+                    "duration": "20\u201360 mins",
+                    "rest_time": "As recovered",
+                    "number_of_exercises": "1\u20133 types",
+                "overview": "Cycling improves heart and lung function and leg strength. It\u2019s excellent for fat loss and recovery.",
+                "how_to_perform": {
+                    "start_position": ["Adjust bike seat for proper leg extension; hands on handlebars."],
+                    "execution": ["Pedal smoothly, maintain desired cadence, adjust resistance or terrain."]
+                },
+                "sets_reps": {
+                    "beginners": "20\u20131.5-hour steady ride",
+                    "intermediate": "30\u201345 mins with intervals or hills",
+                    "advanced": "45\u201360+ mins pace or HIIT rides"
+                }
+            }
+        },
+        {
+            "Jump Rope": {
+                "short_description": "Jump rope is a high-intensity cardio drill that enhances coordination, agility, and endurance.",
+                
+                    "duration": "10\u201320 mins",
+                    "rest_time": "30\u201360 secs",
+                    "number_of_exercises": "3\u20135 variations",
+                "overview": "Jump rope improves cardiovascular endurance, footwork, and full-body rhythm. Ideal for fast conditioning.",
+                "how_to_perform": {
+                    "start_position": ["Hold handles at hip height, stand tall with knees slightly bent."],
+                    "execution": ["Jump on balls of feet, maintain steady rhythm, mix variations as skills improve."]
+                },
+                "sets_reps": {
+                    "beginners": "3 sets of 30\u201360 seconds",
+                    "intermediate": "4\u20135 sets of 60\u201390 seconds",
+                    "advanced": "5+ sets of 2\u20133 mins with advanced moves"
+                }
+            }
+        },
+        {
+            "Rowing Machine": {
+                "short_description": "Rowing is a full-body cardio tool that builds endurance while being joint-friendly.",
+               
+                    "duration": "15\u201330 mins",
+                    "rest_time": "30\u201360 secs",
+                    "number_of_exercises": "1\u20133 sets",
+                "overview": "Rowing simulates full-body pulling, burns calories, and builds strength/endurance.",
+                "how_to_perform": {
+                    "start_position": ["Feet strapped in, grip handle, sit tall."],
+                    "execution": ["Drive with legs, follow with torso and arms, reverse the motion smoothly."]
+                },
+                "sets_reps": {
+                    "beginners": "3 sets of 500m or 2 mins",
+                    "intermediate": "4 sets of 750\u20131000m",
+                    "advanced": "5+ sets of 1000m or HIIT sprints"
+                }
+            }
+        },
+        {
+            "Swimming": {
+                "short_description": "Swimming is joint-friendly, full-body cardio that builds strength, endurance, and control.",
+               
+                    "duration": "20\u201345 minutes",
+                    "rest_time": "15\u201360 seconds",
+                    "number_of_exercises": "3\u20135 strokes or sets",
+                "overview": "Swimming builds balanced strength and cardio capacity while reducing impact on joints.",
+                "how_to_perform": {
+                    "start_position": ["Choose stroke, push off or start from poolside."],
+                    "execution": ["Glide with strong strokes, coordinate breathing and rhythm."]
+                },
+                "sets_reps": {
+                    "beginners": "3\u20134 rounds of 2\u20134 laps",
+                    "intermediate": "5\u20136 rounds of 50\u2013100m",
+                    "advanced": "8+ rounds or 1000\u20132000m"
+                }
+            }
+        },
+        {
+            "Burpees": {
+                "short_description": "Burpees are a high-intensity, full-body move that combines squat, push-up, and jump.",
+                
+                    "duration": "5\u201315 mins",
+                    "rest_time": "30\u201360 secs",
+                    "number_of_exercises": "3\u20135 sets",
+                "overview": "Burpees improve cardiovascular fitness, strength, and coordination with zero equipment.",
+                "how_to_perform": {
+                    "start_position": ["Stand upright with feet shoulder-width apart."],
+                    "execution": ["Squat, kick back, push-up (optional), jump forward, leap up."]
+                },
+                "sets_reps": {
+                    "beginners": "3 sets of 8\u201310 reps",
+                    "intermediate": "4 sets of 10\u201315 reps",
+                    "advanced": "5 sets of 15\u201320+ reps"
+                }
+            }
+        },
+        {
+            "High-Intensity Interval Training (HIIT)": {
+                "short_description": "HIIT alternates intense exercise bursts with rest, maximizing fat burn and endurance in short time.",
+               
+                    "duration": "15\u201330 mins",
+                    "rest_time": "15\u201345 secs",
+                    "number_of_exercises": "4\u20138 drills",
+                "overview": "HIIT pushes the body to maximum performance with high-effort bursts and recovery periods.",
+                "how_to_perform": {
+                    "start_position": ["Choose 4\u20136 strength and cardio moves."],
+                    "execution": ["Work at high effort for 20\u201345 seconds, rest 15\u201330 sec, repeat for 3\u20135 rounds."]
+                },
+                "sets_reps": {
+                    "beginners": "20s work / 40s rest \u00d7 3 rounds",
+                    "intermediate": "30s work / 30s rest \u00d7 4 rounds",
+                    "advanced": "40s work / 20s rest \u00d7 5 rounds"
+                }
+            }
+        }
+]
+}
+]
